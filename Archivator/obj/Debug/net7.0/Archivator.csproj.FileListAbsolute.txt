@@ -1,0 +1,17 @@
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Archivator.exe
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Archivator.deps.json
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Archivator.runtimeconfig.json
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Archivator.dll
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Archivator.pdb
+E:\GitHub\TryWeb\Archivator\bin\Debug\net7.0\Aspose.Zip.dll
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.csproj.AssemblyReference.cache
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.AssemblyInfoInputs.cache
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.AssemblyInfo.cs
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.csproj.CoreCompileInputs.cache
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.csproj.CopyComplete
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.dll
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\refint\Archivator.dll
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.pdb
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\Archivator.genruntimeconfig.cache
+E:\GitHub\TryWeb\Archivator\obj\Debug\net7.0\ref\Archivator.dll

@@ -7,8 +7,30 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="bin\Debug\net7.0\AmazingCollections\thrid.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\debug\net7.0\amazingcollections\first.txt" />
+    <Content Include="bin\debug\net7.0\amazingcollections\second.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Zip" Version="24.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="7.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.10" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.5" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="8.0.5" />
+    <PackageReference Include="NLog.Database" Version="5.3.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.11" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net7.0\Logs\" />
+    <Folder Include="Cache\" />
   </ItemGroup>
 
 </Project>

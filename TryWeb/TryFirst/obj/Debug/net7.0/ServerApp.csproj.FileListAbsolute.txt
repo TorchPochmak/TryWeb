@@ -1,0 +1,294 @@
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.deps.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.runtimeconfig.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.exe
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\nlog.config
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.Development.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.exe
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.deps.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.runtimeconfig.json
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.pdb
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Aspose.Zip.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\NLog.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Database.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Web.AspNetCore.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.CodeDom.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.dll
+E:\GitHub\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.pdb
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.AssemblyReference.cache
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfoInputs.cache
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfo.cs
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.ServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.ServerApp.props
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServerApp.props
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServerApp.props
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.build.json
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.development.json
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\scopedcss\bundle\ServerApp.styles.css
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CopyComplete
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.dll
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\refint\ServerApp.dll
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.pdb
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.genruntimeconfig.cache
+E:\GitHub\TryWeb\TryFirst\obj\Debug\net7.0\ref\ServerApp.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\nlog.config
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.Development.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.deps.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.runtimeconfig.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.exe
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.exe
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.deps.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.runtimeconfig.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.pdb
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Aspose.Zip.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Database.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Web.AspNetCore.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.CodeDom.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.pdb
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.AssemblyReference.cache
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfoInputs.cache
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfo.cs
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.ServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.ServerApp.props
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServerApp.props
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServerApp.props
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.build.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.development.json
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\scopedcss\bundle\ServerApp.styles.css
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CopyComplete
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\refint\ServerApp.dll
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.pdb
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.genruntimeconfig.cache
+E:\GitHub\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ref\ServerApp.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.deps.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.runtimeconfig.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.exe
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\nlog.config
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.Development.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\appsettings.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.exe
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.deps.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.runtimeconfig.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\ServerApp.pdb
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Aspose.Zip.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\EntityFramework.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Database.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\NLog.Web.AspNetCore.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.CodeDom.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\bin\Debug\net7.0\Archivator.pdb
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.AssemblyReference.cache
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfoInputs.cache
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.AssemblyInfo.cs
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.ServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.build.ServerApp.props
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServerApp.props
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServerApp.props
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.build.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\staticwebassets.development.json
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\scopedcss\bundle\ServerApp.styles.css
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.csproj.CopyComplete
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\refint\ServerApp.dll
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.pdb
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ServerApp.genruntimeconfig.cache
+E:\GitHub\РазработкаC#_Тестовое задание_ Горин_Никита\KASPERSKY\TryWeb\TryFirst\obj\Debug\net7.0\ref\ServerApp.dll

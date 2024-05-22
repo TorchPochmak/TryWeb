@@ -1,0 +1,6 @@
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.exe
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.dll
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.deps.json
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.runtimeconfig.json
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.pdb
+E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\Newtonsoft.Json.dll

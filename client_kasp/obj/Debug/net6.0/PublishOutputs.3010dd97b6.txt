@@ -1,0 +1,6 @@
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\client_kasp.exe
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\client_kasp.dll
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\client_kasp.deps.json
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\client_kasp.runtimeconfig.json
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\client_kasp.pdb
+C:\Users\TorchPochmak\Desktop\client_kasp\bin\Debug\net6.0\publish\Newtonsoft.Json.dll

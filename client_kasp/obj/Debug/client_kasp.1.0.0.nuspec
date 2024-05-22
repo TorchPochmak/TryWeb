@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>client_kasp</id>
+    <version>1.0.0</version>
+    <authors>client_kasp</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="E:\GitHub\KASPERSKY\client_kasp\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.dll" target="tools\net6.0\any\client_kasp.dll" />
+    <file src="E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.deps.json" target="tools\net6.0\any\client_kasp.deps.json" />
+    <file src="E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.runtimeconfig.json" target="tools\net6.0\any\client_kasp.runtimeconfig.json" />
+    <file src="E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\client_kasp.pdb" target="tools\net6.0\any\client_kasp.pdb" />
+    <file src="E:\GitHub\KASPERSKY\client_kasp\bin\Debug\net6.0\publish\Newtonsoft.Json.dll" target="tools\net6.0\any\Newtonsoft.Json.dll" />
+  </files>
+</package>
